@@ -22,12 +22,12 @@ public class StartAssignment {
 		}
 		
 		final String[] files = {
-				"src/edu/ycp/cs201/kaboom/Point.java",
-				"src/edu/ycp/cs201/kaboom/Circle.java",
-				"src/edu/ycp/cs201/kaboom/Rectangle.java",
-				"junit/edu/ycp/cs201/kaboom/PointTest.java",
-				"junit/edu/ycp/cs201/kaboom/CircleTest.java",
-				"junit/edu/ycp/cs201/kaboom/RectangleTest.java",
+				"src/com/game/kaboom/Point.java",
+				"src/com/game/kaboom/Circle.java",
+				"src/com/game/kaboom/Rectangle.java",
+				"junit/com/game/kaboom/PointTest.java",
+				"junit/com/game/kaboom/CircleTest.java",
+				"junit/com/game/kaboom/RectangleTest.java",
 		};
 		
 		int numErrors = 0;
